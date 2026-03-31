@@ -1,16 +1,15 @@
-## Hi there 👋
+## Halo, Saya Trio! 👋
 
-<!--
-**MyNameTrio/mynametrio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang Pengembang Web yang bersemangat dalam menciptakan pengalaman digital yang menarik dan responsif.
 
-Here are some ideas to get you started:
+### 🚀 Teknologi dan Tools
+- 💻 JavaScript, HTML5, CSS3
+- ⚛️ React.js, Node.js
+- 🗄️ MySQL, MongoDB
+- 🛠️ Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Sedang Saya Pelajari
+Saat ini saya sedang fokus mendalami pengembangan aplikasi full-stack dan meningkatkan kemampuan problem solving.
+
+### 📫 Hubungi Saya
+- Email: gaultrio355@gmail.com
